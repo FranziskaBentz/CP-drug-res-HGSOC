@@ -9,7 +9,7 @@ Jupyter Notebooks:
 - Cell Painting drug resistant HGSOC cell lines.ipynb:
   - Used to compare morphological features in the different doncidionts as well as the neighborhood analysis
   - Used to generate figure panels 2a, 2b, 2d 
-- Actin analysis drug resistant HGSOC cell lines.ipynb:
+- Actin analysis.ipynb:
   - Used to analyze and compare the number and length of actin filaments in the different conditions
   - Used to generate figure panel 2c
   
