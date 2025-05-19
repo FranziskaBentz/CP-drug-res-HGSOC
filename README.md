@@ -1,7 +1,7 @@
 # CP-drug-res-HGSOC
 Supplementary code repository for the manuscript: "Integrated multiomics profiling of adavosertib and paclitaxel drug resistance in ovarian cancer uncovers therapeutic vulnerabilities to overcome chemoresistance" by Raivola and Rantanen et al. (add doi once available)
 
-This repository contains only the cell painting analysis. All other analysis conducted in the study can be found here: (add link)
+This repository contains only the cell painting analysis. All other analysis conducted in the study can be found here: Rantanen, Frida; Dini, Alice; Barker, Harlan; Bentz, Franziska; Paavolainen, Lassi; Ungureanu, Daniela (2025), “Integrated Multi-omics Profiling of Cell Cycle Checkpoint Blockade Responses in Ovarian Cancer”, Mendeley Data, V1, doi: 10.17632/dd6bvtrv9b.1
 
 Imaging data was acquired using an Opera Phenix and preprocessed using the BIAS software (https://single-cell-technologies.com/bias-2/) and CellProfiler (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04344-9). For more details, see the method section of the original publication. Features extracted using CellProfiler are publicly available here: (link). Analysis was done on > 25000 cells using > 900 morphological features of the cells, nuclei and nucleolei.
 
