@@ -15,3 +15,5 @@ Jupyter Notebooks:
   - Used to analyze and compare the number and length of actin filaments in the different conditions
   - Used to generate figure panel 2c
   
+CellProfiler pipelines:
+- The images were taken in two batches. For the general feature extraction, the batches were processed in separate pipelines but for the Actin analysis, the same parameters were chosen.
