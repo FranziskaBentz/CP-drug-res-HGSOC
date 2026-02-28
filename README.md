@@ -1,11 +1,11 @@
 # CP-drug-res-HGSOC
-Supplementary code repository for the manuscript: "ROR1-PI3K/AKT signaling drives adaptive resistance to cell cycle blockade in TP53 mutated ovarian cancer" by Raivola and Rantanen et al. (add doi once available)
+Supplementary code repository for the manuscript: "ROR1-PI3K/AKT signaling drives adaptive resistance to cell cycle blockade in TP53 mutated ovarian cancer" by Raivola and Rantanen et al., 2026 (doi: 10.17632/dd6bvtrv9b.1)
 
-This repository contains only the cell painting analysis. All other analysis conducted in the study can be found here: Rantanen, Frida; Dini, Alice; Barker, Harlan; Bentz, Franziska; Paavolainen, Lassi; Ungureanu, Daniela (2026), “ROR1-PI3K/AKT signaling drives adaptive resistance to cell cycle blockade in TP53 mutated ovarian cancer”, Mendeley Data, V1, doi: 10.17632/dd6bvtrv9b.1
+This repository contains only the cell painting analysis. 
 
 The scripts for the scRNA-sequencing analysis can be found here: https://github.com/ungureanulab/OC-resistance-profiling
 
-Imaging data was acquired using an Opera Phenix and preprocessed using the BIAS software (https://single-cell-technologies.com/bias-2/) and CellProfiler (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04344-9). For more details, see the method section of the original publication. Features extracted using CellProfiler are publicly available here: (link). Analysis was done on > 25000 cells using > 900 morphological features of the cells, nuclei and nucleolei.
+Imaging data was acquired using an Opera Phenix and preprocessed using the BIAS software (https://single-cell-technologies.com/bias-2/) and CellProfiler (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04344-9). For more details, see the method section of the original publication. Features extracted using CellProfiler are publicly available here: https://data.mendeley.com/datasets/dd6bvtrv9b/1. Analysis was done on > 25000 cells using > 900 morphological features of the cells, nuclei and nucleolei.
 
 Jupyter Notebooks:
 - Cell Painting drug resistant HGSOC cell lines.ipynb:
